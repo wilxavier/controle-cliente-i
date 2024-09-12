@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S6ZdgRhZyctdLIQFGfBeQlzW2PH1rdf6As2yBxiGGhNI39+iaW6kZfY7z80tsbU6sdivLMnf9j/kSBX1AIw7TQ==",
+  "dgSpecHash": "Q8/ps32fPE9flvI7n1qI6RSADmbv0W4kyMJdptvFrKXWw6GPANR3paiToqkTp0R2hE5RM+kMMIVN7q8Nu+u0kw==",
   "success": true,
-  "projectFilePath": "/home/neo/Documentos/Dev/Senai/BackEnd/Controle Clientes Inicial/Controle Clientes Inicial.csproj",
+  "projectFilePath": "/home/xavier/Documents/Code/Senai/controle-cliente-i/Controle Clientes Inicial.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

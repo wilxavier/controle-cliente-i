@@ -17,12 +17,10 @@ namespace Controle_Clientes_Inicial
 
         public float total {get; set; }
 
-        public virtual void pagarImposto (float v)
+        public virtual void PagarImposto (float v)
         {
             valor = v;
-
             valorImposto = valor * 10/100;
-
             total = valor + valorImposto;
         }
     }

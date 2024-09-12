@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/home/neo/.nuget/packages/": {}
+    "/home/xavier/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/neo/Documentos/Dev/Senai/BackEnd/Controle Clientes Inicial/Controle Clientes Inicial.csproj",
+      "projectUniqueName": "/home/xavier/Documents/Code/Senai/controle-cliente-i/Controle Clientes Inicial.csproj",
       "projectName": "Controle Clientes Inicial",
-      "projectPath": "/home/neo/Documentos/Dev/Senai/BackEnd/Controle Clientes Inicial/Controle Clientes Inicial.csproj",
-      "packagesPath": "/home/neo/.nuget/packages/",
-      "outputPath": "/home/neo/Documentos/Dev/Senai/BackEnd/Controle Clientes Inicial/obj/",
+      "projectPath": "/home/xavier/Documents/Code/Senai/controle-cliente-i/Controle Clientes Inicial.csproj",
+      "packagesPath": "/home/xavier/.nuget/packages/",
+      "outputPath": "/home/xavier/Documents/Code/Senai/controle-cliente-i/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/neo/.nuget/NuGet/NuGet.Config"
+        "/home/xavier/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.132/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.133/RuntimeIdentifierGraph.json"
       }
     }
   }
