@@ -1,0 +1,15 @@
+/home/xavier/Documents/Code/Senai/controle-cliente-i/bin/Debug/net6.0/Controle Clientes Inicial
+/home/xavier/Documents/Code/Senai/controle-cliente-i/bin/Debug/net6.0/Controle Clientes Inicial.deps.json
+/home/xavier/Documents/Code/Senai/controle-cliente-i/bin/Debug/net6.0/Controle Clientes Inicial.runtimeconfig.json
+/home/xavier/Documents/Code/Senai/controle-cliente-i/bin/Debug/net6.0/Controle Clientes Inicial.dll
+/home/xavier/Documents/Code/Senai/controle-cliente-i/bin/Debug/net6.0/ref/Controle Clientes Inicial.dll
+/home/xavier/Documents/Code/Senai/controle-cliente-i/bin/Debug/net6.0/Controle Clientes Inicial.pdb
+/home/xavier/Documents/Code/Senai/controle-cliente-i/obj/Debug/net6.0/Controle Clientes Inicial.csproj.AssemblyReference.cache
+/home/xavier/Documents/Code/Senai/controle-cliente-i/obj/Debug/net6.0/Controle Clientes Inicial.GeneratedMSBuildEditorConfig.editorconfig
+/home/xavier/Documents/Code/Senai/controle-cliente-i/obj/Debug/net6.0/Controle Clientes Inicial.AssemblyInfoInputs.cache
+/home/xavier/Documents/Code/Senai/controle-cliente-i/obj/Debug/net6.0/Controle Clientes Inicial.AssemblyInfo.cs
+/home/xavier/Documents/Code/Senai/controle-cliente-i/obj/Debug/net6.0/Controle Clientes Inicial.csproj.CoreCompileInputs.cache
+/home/xavier/Documents/Code/Senai/controle-cliente-i/obj/Debug/net6.0/Controle Clientes Inicial.dll
+/home/xavier/Documents/Code/Senai/controle-cliente-i/obj/Debug/net6.0/ref/Controle Clientes Inicial.dll
+/home/xavier/Documents/Code/Senai/controle-cliente-i/obj/Debug/net6.0/Controle Clientes Inicial.pdb
+/home/xavier/Documents/Code/Senai/controle-cliente-i/obj/Debug/net6.0/Controle Clientes Inicial.genruntimeconfig.cache

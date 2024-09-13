@@ -11,11 +11,11 @@ namespace Controle_Clientes_Inicial
 
         public string endereco {get; set; }
 
-        public float valor {get; set; }
+        public float valor {get; protected set; }
 
-        public float valorImposto {get; set; }
+        public float valorImposto {get; protected set; }
 
-        public float total {get; set; }
+        public float total {get; protected set; }
 
         public virtual void PagarImposto (float v)
         {
